@@ -1,4 +1,5 @@
 [workspace]
 members = [
-    "example-1"
+    "example-1",
+    "qa_service"
 ]
